@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rad-stardust-42d273.netlify.app/sitemap.xml
